@@ -72,6 +72,10 @@ body{
 }
 .contacts{
     background-image: url(images/subscribe.jpg);
+    height: 100px;
+    
+    text-align: center;
+    color: white;
 }
 
 
