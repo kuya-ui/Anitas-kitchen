@@ -28,12 +28,12 @@ body{
     align-items: center;
     text-align: center;
 }
-.p-2{
+.p-1{
     background-color: white;
-    color: orangered;
+    color: black;
 }
 .p-2{
-    background-color: orangered;
+    background-color: #f15a29;
     color: white;
 }
 .happy{
@@ -118,7 +118,7 @@ body{
 .img{
     padding: 20px;
     font-size: 20px;
-    color: orangered;
+    color: #f15a29;
 }
 .chick{
     display: flex;
@@ -133,7 +133,7 @@ body{
     background-color: rgb(219, 219, 219);
 }
 .btn:hover{
-    color: orangered;
+    color: #f15a29;
     background: white;
 }
 .cool{
@@ -142,7 +142,31 @@ body{
 }
 .fast{
     float: right;
+    
 }
+.people{
+    display: flex;
+   
+    margin: 20px;
+    box-shadow: 3px 3px 5px gray,3px 3px 5px gray;
+    
+
+}
+.about{
+    width: 50%;
+}
+.person{
+    width: 50%;
+    
+
+}
+.customer{
+    padding: 0px 30px;
+}
+.our{
+    color: #f15a29;
+}
+
 
 
 
