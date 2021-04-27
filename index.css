@@ -58,6 +58,10 @@ body{
 .back-4{
     background-image:url(images/dinner2.jpg) ;
 }
+.fast{
+    flex: content;
+}
+
 
 
 
