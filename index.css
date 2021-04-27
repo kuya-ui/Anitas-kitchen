@@ -11,6 +11,7 @@ body{
     box-sizing: border-box;
     padding: 20px 20px;
     color: white;
+    font-size: ;
     
 }
 .container{
@@ -27,14 +28,23 @@ body{
     align-items: center;
     text-align: center;
 }
+.p-2{
+    background-color: white;
+    color: orangered;
+}
+.p-2{
+    background-color: orangered;
+    color: white;
+}
 .happy{
     display: flex;
     width: 100%;
+    font-size: 30px;
 
 }
 .space{
     width: 30%;
-    height: 35vh;
+    height: 25vh;
 }
 .block{
     display: flex;
@@ -68,19 +78,64 @@ body{
     justify-content: center;
 }
 .food{
+    height: 100mv;
     background-image: url(images/foodsBg.jpg);
 }
 .contacts{
     background-image: url(images/subscribe.jpg);
-    height: 100px;
-    
+    height: 150px;
     text-align: center;
     color: white;
+    
+    
 }
 .logo-1{
     background-color: orangered;
+    text-align: center;
+    color: white;
 }
-
+.food{
+    padding: 100px;
+    background-image: url(./images/foodsBg.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.chick{
+    align-items: center;
+    text-align: center;
+    padding: 20px ;
+}
+.food-btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.img{
+    padding: 20px;
+    font-size: 20px;
+    color: orangered;
+}
+.chick{
+    display: flex;
+    background-color: white;
+}
+.btn{
+    width: 25%;
+    color: gray;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+}
+.btn:hover{
+    color: orangered;
+    background: white;
+}
 
 
 
