@@ -175,6 +175,13 @@ body{
 .strong2{
     color: #f15a29;
 }
+.hope1{
+    display: flex;
+   
+    margin: 20px;
+    box-shadow: 3px 3px 5px gray,3px 3px 5px gray;
+    
+}
 
 
 
