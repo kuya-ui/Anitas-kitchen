@@ -15,6 +15,7 @@ HTML
 CSS
 ## Support and contact details
 maxmillan.kuya@student.moringaschool.com
+
 moringa school contributed to the succesful completion of this project
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
