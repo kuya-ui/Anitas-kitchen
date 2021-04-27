@@ -58,9 +58,16 @@ body{
 .back-4{
     background-image:url(images/dinner2.jpg) ;
 }
-.fast{
-    flex: content;
+.food{
+    background-image: url(images/foodsBg.jpg);
 }
+.rice{
+    display: flex;
+    text-align: start;
+    color: white;
+}
+
+
 
 
 
