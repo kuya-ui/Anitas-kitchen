@@ -1,6 +1,6 @@
 body{
-    margin: 0;
-    padding: 0; 
+    margin: 50;
+    padding: 50; 
 }
 .landing{
     background-image: url(./images/landing.jpg);
@@ -31,15 +31,19 @@ body{
 .p-1{
     background-color: white;
     color: black;
+    
+    
 }
 .p-2{
     background-color: #f15a29;
     color: white;
+    
+    
 }
 .happy{
     display: flex;
     width: 100%;
-    font-size: 30px;
+    font-size: 16.9px;
 
 }
 .space{
@@ -107,7 +111,7 @@ body{
 .chick{
     align-items: center;
     text-align: center;
-    padding: 20px ;
+    padding: 10px ;
 }
 .food-btn{
     width: 100%;
@@ -116,7 +120,7 @@ body{
     background-color: white;
 }
 .img{
-    padding: 20px;
+    
     font-size: 20px;
     color: #f15a29;
 }
@@ -162,6 +166,7 @@ body{
 }
 .customer{
     padding: 0px 30px;
+    image-orientation: from-image;
 }
 .our{
     color: #f15a29;
@@ -180,8 +185,7 @@ body{
     display: flex;
    height: 200px;
     margin: 20px;
-    box-shadow: 3px 3px 5px gray;
-    
+    flex: right;  
     
 }
 .fast{
@@ -194,6 +198,13 @@ body{
     display: flex;
     height: 200px;
      margin: 20px;
+}
+.hope1{
+    width: 50%;
+}
+.trust{
+    float: left;
+    border-right: 10px;
 }
 
 
