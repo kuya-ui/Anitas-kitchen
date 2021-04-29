@@ -113,6 +113,24 @@
     width: 50%;
 }
 
+.only-2 {
+    margin: 5px 5px;
+    padding: 5px 2px;
+}
+
+.hope {
+    text-align: end;
+    margin: 0px 8px;
+}
+
+.only-4 {
+    display: flex;
+    padding: 2px;
+    border: 2px solid whitesmoke;
+    box-shadow: 3px 3px 5px gray, 3px 3px 5px gray;
+    width: 100%;
+}
+
 .moon {
     padding: 10px 2px;
     height: 10%;
@@ -124,7 +142,6 @@
 .moontable {
     padding: 5px;
     border: 2px solid red;
-   
 }
 
 .rice {
@@ -169,7 +186,6 @@
 .chick {
     align-items: center;
     text-align: center;
-   
 }
 
 .food-btn {
@@ -182,7 +198,6 @@
 .img {
     font-size: 10px;
     color: #f15a29
-      
 }
 
 .chick {
@@ -203,9 +218,7 @@
 .btn:hover {
     color: #f15a29;
     background: white;
-   
 }
-
 
 .cool {
     background-color: #f15a29;
@@ -281,6 +294,10 @@
     color: #f15a29;
 }
 
-.amaze{
+.amaze {
+    color: #f15a29;
+}
+
+.uu {
     color: #f15a29;
 }
