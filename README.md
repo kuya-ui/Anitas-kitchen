@@ -9,7 +9,7 @@ This is a Anitas kitchen and some of the delicasies they offer
 * Broswer
 * Github
 ## live demo
-kuya-ui.github.io/anitas-kitchen/
+ https://kuya-ui.github.io/Anitas-kitchen/
 ## Technologies Used
 HTML
 CSS
